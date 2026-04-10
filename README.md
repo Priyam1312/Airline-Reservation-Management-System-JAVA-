@@ -46,7 +46,7 @@ Concepts Used:
 ⚙️ How to Run
 	1.	Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Priyam1312/Airline-Reservation-Management-System-JAVA-.git
 
 	2.	Navigate to the project folder:
 
